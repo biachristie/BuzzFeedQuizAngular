@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+    color: rgb(250, 235, 215);
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("assets/images/bg_pokemon.jpeg");
+    background-repeat: repeat;
+}

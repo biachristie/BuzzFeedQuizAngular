@@ -1,0 +1,25 @@
+<div class="quiz_pokemon__container">
+    <div class="quiz_pokemon_logo">
+    <img src="assets/images/logo_pokemon.png" alt="Logo Pokémon" />
+    <h2>{{ title }}</h2>
+    <h3>{{ subtitle }}</h3>
+</div>
+
+<div *ngIf="!finished" class="quiz_pokemon_questions">
+    <h2>{{ questionSelected.question }}</h2>
+</div>
+
+<div *ngIf="!finished" class="quiz_pokemon_options">
+    <button
+        *ngFor="let option of questionSelected.options; let i = index"
+        (click)="playerChoice(option.alias)"
+        class="btn-option"
+    >
+        {{ option.name }}
+    </button>
+</div>
+
+<div *ngIf="finished" class="quiz_pokemon_results">
+    <h1>O seu resultado é:</h1>
+    <p>{{ answerSelected }}</p>
+</div>

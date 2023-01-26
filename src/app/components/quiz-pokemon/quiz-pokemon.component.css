@@ -1,0 +1,94 @@
+.quiz_pokemon__container {
+    height: 100vh;
+    width: 80%;
+    margin: 50px auto;
+    background-color: #f8f8ff;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.quiz_pokemon_logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.quiz_pokemon_logo > img {
+    height: 200px;
+    margin: 30px auto;
+}
+
+.quiz_pokemon_logo > h2 {
+    color: #575757;
+    margin: auto 10px;
+}
+
+.quiz_pokemon_logo > h3 {
+    color: #575757b0;
+    margin: 0 10px 30px;
+}
+
+.quiz_pokemon_questions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #3657a3;
+    border-radius: 8px;
+    background-color: #3D61B5;
+    height: 200px;
+    margin: 0 50px 0 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.quiz_pokemon_options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 60px 20px;
+    margin-bottom: 20px;
+}
+
+.btn-option {
+    background-color: transparent;
+    border-radius: 8px;
+    border: 1px solid #e2b604;
+    width: 33%;
+    display: inline-block;
+    cursor: pointer;
+    color: #747474;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 16px 31px;
+    margin: 0 2px 20px;
+    text-decoration: none;
+}
+
+.btn-option:hover {
+    background-color: #e2b604;
+}
+
+.btn-option:active {
+    position: relative;
+    top: 1px;
+}
+
+.quiz_pokemon_results {
+    height: 350px;
+    background-color: #222C59;
+    border-radius: 10px;
+    margin: 0 50px 0 50px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quiz_pokemon_results > p {
+    font-size: larger;
+    margin-top: 10px;
+}

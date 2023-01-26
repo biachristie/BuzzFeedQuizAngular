@@ -1,0 +1,158 @@
+{
+    "title": "Apenas os grandes fãs de Pokémon passam nesse teste",
+    "subtitle": "Confira se você é realmente fã!",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Quem é o personagem principal de Pokémon?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Ash Ketchum",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Professor Carvalho",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "Pikachu",
+                    "alias": "B"
+                }
+                
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Qual desses tipos de Pokémon não existe?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Fogo",
+                    "alias": "B"
+                },
+                {
+                    "id": 2,
+                    "name": "Água",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "Vidro",
+                    "alias": "A"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Qual é a cor do chapéu do Ash?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Branco",
+                    "alias": "B"
+                },
+                {
+                    "id": 2,
+                    "name": "Rosa",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "Vermelho",
+                    "alias": "A"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Quantas evoluções possíveis tem uma Eevee?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "4",
+                    "alias": "B"
+                },
+                {
+                    "id": 2,
+                    "name": "8",
+                    "alias": "A"
+                },
+                {
+                    "id": 3,
+                    "name": "6",
+                    "alias": "B"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Quantos anos Ash possui no início da jornada?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "5",
+                    "alias": "B"
+                },
+                {
+                    "id": 2,
+                    "name": "10",
+                    "alias": "A"
+                },
+                {
+                    "id": 3,
+                    "name": "15",
+                    "alias": "B"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Quantos membros compoem o Esquadrão Squirtle?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "9",
+                    "alias": "B"
+                },
+                {
+                    "id": 2,
+                    "name": "4",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "5",
+                    "alias": "A"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Qual dos Pokémon abaixo não possui olhos?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Zubat",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Jinx",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "Caterpie",
+                    "alias": "B"
+                }
+            ]
+        }
+    ],
+    "results": {
+        "A": "Parabéns! Você é quase um mestre Pokémon!",
+        "B": "Que triste! Você não é fã de Pokémon."
+    }
+}
