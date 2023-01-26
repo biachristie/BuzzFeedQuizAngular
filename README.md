@@ -1,4 +1,4 @@
-<h1 align="center">📝  Desafio de projeto  "Clone de um BuzzFeed Quiz" </h1>
+<h1 align="center">📝  Desafio de projeto  "Clone de uma página BuzzFeed Quiz" </h1>
 
 <div align="center">
 
@@ -6,9 +6,9 @@
 ![angular-version](https://img.shields.io/badge/version-15.0.4-0671af.svg)
 ![ide](https://img.shields.io/badge/Editor-VSCode%201.74.3-3cb48c.svg)
 
-[![GitHub stars](https://img.shields.io/github/stars/biachristie/BuzzFeedQuizAngular.svg?style=social&label=Star&maxAge=2592000)](https://github.com/biachristie/BuzzFeedQuizAngular/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/biachristie/BuzzFeedQuizAngular.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/biachristie/BuzzFeedQuizAngular/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/biachristie/BuzzFeedQuizAngular.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/biachristie/BuzzFeedQuizAngular/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/biachristie/angular-BuzzFeed-quiz-page.svg?style=social&label=Star&maxAge=2592000)](https://github.com/biachristie/angular-BuzzFeed-quiz-page/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/biachristie/angular-BuzzFeed-quiz-page.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/biachristie/angular-BuzzFeed-quiz-page/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/biachristie/angular-BuzzFeed-quiz-page.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/biachristie/angular-BuzzFeed-quiz-page/network/members)
 
 </div>
 <br>
